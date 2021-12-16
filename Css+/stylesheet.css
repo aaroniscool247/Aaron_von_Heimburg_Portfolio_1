@@ -1,3 +1,18 @@
 body {
+  background-color: black;
   color: red;
-}/*# sourceMappingURL=stylesheet.css.map */
+  margin: 10px;
+  text-align: center;
+}
+
+.Title {
+  display: inline-block;
+  text-align: center;
+  background-color: gray;
+  color: red;
+  padding: 25px;
+  margin: 15px;
+  outline: red solid 3px;
+  font-size: 60px;
+}
+/*# sourceMappingURL=stylesheet.css.map */
